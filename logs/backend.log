@@ -7607,3 +7607,44 @@
 2.4.2023, 10:37:47 - INFO - Socket disconnected [id: undefined] 
 2.4.2023, 10:42:47 - INFO - Hi | 90 | Bobo 
 2.4.2023, 10:42:47 - INFO - Server is running on port: 3030 
+2.4.2023, 11:13:03 - INFO - Hi | 90 | Bobo 
+2.4.2023, 11:13:03 - INFO - Server is running on port: 3030 
+2.4.2023, 11:13:04 - INFO - New connected socket [id: SgpLL4SqOn1fkHDhAAAB] 
+2.4.2023, 11:13:09 - INFO - Socket disconnected [id: undefined] 
+2.4.2023, 11:13:10 - DEBUG - Getting Gigs | {"price":"0"} 
+2.4.2023, 11:13:10 - INFO - Req was made 
+2.4.2023, 11:13:10 - INFO - New connected socket [id: nCAoeh4rjPHqhwY6AAAD] 
+2.4.2023, 11:13:15 - INFO - Req was made 
+2.4.2023, 11:13:15 - DEBUG - Getting Gigs | {} 
+2.4.2023, 11:14:20 - INFO - Socket disconnected [id: undefined] 
+2.4.2023, 11:14:20 - DEBUG - Getting Gigs | {"price":"0"} 
+2.4.2023, 11:14:20 - INFO - Req was made 
+2.4.2023, 11:14:20 - INFO - New connected socket [id: Eb_owJP5rM1XaZsSAAAF] 
+2.4.2023, 11:32:19 - INFO - Hi | 90 | Bobo 
+2.4.2023, 11:32:19 - INFO - Server is running on port: 3030 
+2.4.2023, 11:32:24 - DEBUG - Getting Gigs | {"price":"0"} 
+2.4.2023, 11:32:24 - INFO - Req was made 
+2.4.2023, 11:32:24 - INFO - New connected socket [id: ajj1OxS87nBHw-ogAAAB] 
+2.4.2023, 11:32:36 - INFO - Req was made 
+2.4.2023, 11:32:36 - DEBUG - Getting Gigs | {"category":"Graphics & Design"} 
+2.4.2023, 11:32:37 - INFO - Req was made 
+2.4.2023, 11:32:37 - DEBUG - Getting Gigs | {"category":"Digital Marketing"} 
+2.4.2023, 11:32:38 - INFO - Req was made 
+2.4.2023, 11:32:38 - DEBUG - Getting Gigs | {"category":"Writing & Translation"} 
+2.4.2023, 11:32:42 - INFO - Req was made 
+2.4.2023, 11:32:42 - DEBUG - Getting Gigs | {"category":"Writing & Translation"} 
+2.4.2023, 11:32:43 - INFO - Req was made 
+2.4.2023, 11:32:43 - DEBUG - Getting Gigs | {"category":"Video & Animation"} 
+2.4.2023, 11:32:46 - INFO - Req was made 
+2.4.2023, 11:32:46 - DEBUG - Getting Gigs | {"category":"Music & Audio"} 
+2.4.2023, 11:32:47 - INFO - Req was made 
+2.4.2023, 11:32:47 - DEBUG - Getting Gigs | {"category":"Video & Animation"} 
+2.4.2023, 11:32:49 - DEBUG - auth.service - login with username: rashin07 
+2.4.2023, 11:32:49 - INFO - User login:  | {"_id":"6426cdf31f499d23167ffb34","username":"rashin07","fullname":"Rashin","avgResponseTime":2,"country":"India","description":"Hello, My name is Rashin, I am a professional artist having rich experience in hand sketched and digital artwork. I have served tons of businesses with smarter business solutions. I am here to get global exposure and would like to contribute more towards our creative community. Thanks.","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/1fe02234f0b300905f098d1c2eef2599-1621414093019/30dd09bd-748a-49c0-b3bc-ee3071bdfadb.jpg","joinedAt":"March 2019","lastDelivery":"about 22 minutes","level":3,"rate":5,"reviews":[{"id":"madeId","gig":"{optional-mini-gig}","txt":"Very kind and works fast","rate":4,"by":{"_id":"u102","fullname":"user2","imgUrl":"/img/img2.jpg"}}]} 
+2.4.2023, 11:32:49 - INFO - Setting socket.userId = 6426cdf31f499d23167ffb34 for socket [id: ajj1OxS87nBHw-ogAAAB] 
+2.4.2023, 11:32:50 - INFO - Req was made 
+2.4.2023, 11:32:50 - DEBUG - Getting Gigs | {"price":"0"} 
+2.4.2023, 11:32:54 - INFO - Req was made 
+2.4.2023, 11:32:54 - DEBUG - Getting Orders 
+2.4.2023, 11:33:55 - INFO - Req was made 
+2.4.2023, 11:33:55 - DEBUG - Getting Gigs | {"price":"0"} 
