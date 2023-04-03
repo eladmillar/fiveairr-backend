@@ -10376,3 +10376,20 @@
 3.4.2023, 17:00:16 - INFO - Req was made 
 3.4.2023, 17:00:19 - INFO - Req was made 
 3.4.2023, 17:00:19 - DEBUG - Getting Orders 
+3.4.2023, 17:29:17 - INFO - Server is running on port: 3030 
+3.4.2023, 17:29:20 - INFO - Req was made 
+3.4.2023, 17:29:20 - DEBUG - Getting Gigs | {"price":"0"} 
+3.4.2023, 17:29:23 - INFO - Req was made 
+3.4.2023, 17:29:23 - DEBUG - Getting Gigs | {"price":"0"} 
+3.4.2023, 17:29:28 - DEBUG - auth.service - login with username: elad 
+3.4.2023, 17:29:29 - INFO - User login:  | {"_id":"64298601ff06d5bfb0dc1ff6","fullname":"Elad","username":"elad","imgUrl":"https://lh3.googleusercontent.com/m2NqsT6pMblqVG5GRAyJ3rN4URO2dyt_wodl98LU2i1Ui7EMeISJqfBXy-ur7Q-d_qOqJGgVNCSAP3NcA9DnDD5o_jdcgzBBXjXFTE51Gq6YjeWMH2f1x9NqT1qyQjtK6NogvAF0kF2ImvM5-X3Yd6M7s3HuSSl9t9b_f4mqNDmFDS0Iq9EETlDiMYqTk8jM99vYwtL1OjHxHA1ZMhhzvQAoftDT2-FFbTmAqSWAlXucBORfEZs7JK3EyDi44jqzNQemZ4ve5Usa4ipx8fQbZ-34MIEbuvEY3gK3qoi14HHw2IBlytnj6fZRlZaCx6P-zNqAS2_DEBjKQfBuRNUj4_bxKzlGsI-dEHwmkKWjo38Ske0TXiGB6Cf2dJtL7fQ0GmwIHC1v6WEKTIwaxHQ8oVxyz3FWJ7dXI4AFIVlpoeRoGKneG_eZz2rwbkCKBFEjUV2sbPhoSXmtS7TqJvEYRSDCDIqst4CQYpf-ansHmoDF6Hh3O9S4fvZC5nm-ZcQjD8__-LmWHjsg1LOlC1sEFAotwWhl4uy7jRL8YvxwrNwWg7_srRgaNuyjVhyYJIVMofQqWLoWjXX7OhsMjOZXWrRDryRnoAq1_ZpdZxKlUIu-IXjtHc9cK41aPdp6RKiYWUzNtjP-HQMBKeZBqFUep-tRBpeqWiNokDoSw3REc2Y2NT0v4JKJJVmyQmYDntToRij9hr0PLzK_uAYbXRCJrpcaQpCgNpKaYAs9wKvf89yL8by18rkXi4IH71FP6qE8FadDu8EQRzgw66otlTU_j08N7LRBAq8IfVHsyU6zxbwpYwepjs3-JDTKesVuGpB5XpH0-hvykefdRzoSBcneUbFJkU3S1cPrsOiHYk7h9J1wdvES3EdYyvr3ZvqWxwp9clrzl9nbSZMAfeypfd6PV1Xm9CHvx5ISJ1W_6Pwb8UQ_ZwlJ=w654-h872-s-no?authuser=0","joinedAt":"May 2020","description":"Hello, My name is Elad, I am a professional artist having rich experience in hand sketched and digital artwork. I have served tons of businesses with smarter business solutions. I am here to get global exposure and would like to contribute more towards our creative community. Thanks.","avgResponseTime":2,"lastDelivery":"about 22 minutes","country":"Israel","level":3,"rate":5} 
+3.4.2023, 17:29:44 - DEBUG - auth.service - login with username: don 
+3.4.2023, 17:29:45 - INFO - User login:  | {"_id":"64298e73ff06d5bfb0dc1ff7","fullname":"Don","username":"don","imgUrl":"https://ca.slack-edge.com/T04CLB0SNC9-U04HHPDRGBC-d86c7c347e4d-512","location":null,"joinedAt":"April 2023","description":null,"avgResponseTime":null,"lastDelivery":null,"country":"Israel"} 
+3.4.2023, 17:30:01 - ERROR - cannot insert order | TypeError: Cannot read properties of undefined (reading '0') 
+3.4.2023, 17:30:01 - ERROR - Failed to add order | TypeError: Cannot read properties of undefined (reading '0') 
+3.4.2023, 17:30:11 - INFO - Req was made 
+3.4.2023, 17:30:11 - DEBUG - Getting Gigs | {"price":"0"} 
+3.4.2023, 17:30:13 - INFO - Req was made 
+3.4.2023, 17:30:13 - DEBUG - Getting Orders 
+3.4.2023, 17:34:09 - ERROR - cannot insert order | TypeError: Cannot read properties of undefined (reading '0') 
+3.4.2023, 17:34:09 - ERROR - Failed to add order | TypeError: Cannot read properties of undefined (reading '0') 
