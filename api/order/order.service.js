@@ -50,7 +50,9 @@ async function add(order) {
   try {
     let collection = await dbService.getCollection('order')
     let addedOrder = await collection.insertOne(order)
+    // logger.debug('added order:',addedOrder.ops[0])
     addedOrder = addedOrder.ops[0]
+    // logger.debug('added order:',addedOrder)
     addedOrder.createdAt = new ObjectId(addedOrder._id).getTimestamp()
 
     socketService.emitToUser({
@@ -70,6 +72,32 @@ async function add(order) {
     throw err
   }
 }
+// async function add(order) {
+//   try {
+//     let collection = await dbService.getCollection('order')
+//     let addedOrder = await collection.insertOne(order)
+//     logger.debug('added order:',addedOrder.ops[0])
+//     addedOrder = addedOrder.ops[0]
+//     logger.debug('added order:',addedOrder)
+//     addedOrder.createdAt = new ObjectId(addedOrder._id).getTimestamp()
+
+//     socketService.emitToUser({
+//       type: 'new-order-seller',
+//       data: addedOrder,
+//       userId: addedOrder.seller._id,
+//     })
+//     socketService.emitToUser({
+//       type: 'new-order-buyer',
+//       data: addedOrder,
+//       userId: addedOrder.buyer._id,
+//     })
+
+//     return addedOrder
+//   } catch (err) {
+//     logger.error('cannot insert order', err)
+//     throw err
+//   }
+// }
 
 async function update(order) {
   try {
