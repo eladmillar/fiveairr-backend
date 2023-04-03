@@ -52,7 +52,7 @@ app.get('/**', (req, res) => {
 })
 
 const logger = require('./services/logger.service')
-logger.info('Hi', 90, 'Bobo')
+// logger.info('Hi', 90, 'Bobo')
 
 const port = process.env.PORT || 3030
 http.listen(port, () => {
